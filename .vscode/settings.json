@@ -1,0 +1,8 @@
+{
+  "dotnet.defaultSolution": "VjaLearnNet.sln",
+  "omnisharp.enableEditorConfigSupport": true,
+  "editor.formatOnSave": true,
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  }
+}
