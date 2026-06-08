@@ -1,0 +1,13 @@
+# .NET build output
+bin/
+obj/
+
+# VS Code (keep shared settings, ignore user-local)
+.vs/
+*.user
+
+# Rider / others
+.idea/
+
+# OS
+.DS_Store
